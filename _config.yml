@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
+title: as-shiddiq.github.io
 subtitle: A blogging framework for hackers.
 author: as-shiddiq
 simple_search: https://www.google.com/search
@@ -98,4 +98,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
